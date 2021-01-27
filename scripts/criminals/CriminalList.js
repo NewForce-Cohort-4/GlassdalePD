@@ -23,7 +23,6 @@ export const CriminalList = () => {
     })
 }
 
-document.querySelector("#criminals-nav-link").addEventListener("click", () => {
-    // invoke the function that prints the criminals
-    CriminalList()
-})
+
+
+document.querySelector("#criminals-nav-link").addEventListener("click", CriminalList)
