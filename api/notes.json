@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "text": "It was Edgar",
+      "suspect": "Definitely Edgar",
+      "date": "2021-02-01",
+      "id": 1
+    },
+    {
+      "text": "What's up!!!",
+      "suspect": "Courtney",
+      "date": "2021-02-19",
+      "id": 2
+    },
+    {
+      "text": "Hoagie did it",
+      "suspect": "Hoagie",
+      "date": "2021-02-01",
+      "id": 3
+    }
+  ]
+}

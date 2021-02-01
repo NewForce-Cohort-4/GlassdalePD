@@ -35,6 +35,7 @@ const render = (convictionsCollection) => {
 
 // This won't throw an error, but it will fire any time there's a change event anywhere in the main container
 const eventHub = document.querySelector("main")
+
 eventHub.addEventListener("change", (eventObject) => {
     console.log("You clicked somewhere in the main container")
     console.log(eventObject)
