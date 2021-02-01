@@ -38,7 +38,7 @@ export const CriminalList = (crimeThatWasChosen) => {
 
 
 
-document.querySelector("#criminals-nav-link").addEventListener("click", CriminalList)
+document.querySelector("#criminals-nav-link").addEventListener("click", () => {CriminalList()})
 
 
 // export const CriminalList = (convictionFilter) => {
