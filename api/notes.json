@@ -8,50 +8,32 @@
     },
     {
       "text": "What's up!!!",
-      "criminalId": 1,
+      "criminalId": 26,
       "date": "2021-02-19",
       "id": 2
     },
     {
       "text": "Hoagie did it",
-      "criminalId": 1,
+      "criminalId": 84,
       "date": "2021-02-01",
       "id": 3
     },
     {
       "text": "Notes on notes on notes ",
-      "criminalId": 1,
+      "criminalId": 91,
       "date": "2021-02-12",
       "id": 4
     },
     {
       "text": "Mia did it",
-      "criminalId": 1,
+      "criminalId": 64,
       "date": "2021-02-03",
       "id": 5
     },
     {
-      "text": "test ",
-      "criminalId": 1,
-      "date": "",
-      "id": 6
-    },
-    {
-      "text": "Do you work?",
-      "criminalId": 2,
-      "date": "2021-02-11",
-      "id": 7
-    },
-    {
-      "text": "Do you work again",
-      "criminalId": 10,
-      "date": "2021-02-11",
-      "id": 8
-    },
-    {
       "text": "in a bottle?",
       "criminalId": 10,
-      "date": "",
+      "date": "2021-03-21",
       "id": 9
     },
     {
@@ -59,12 +41,6 @@
       "criminalId": 50,
       "date": "2021-02-12",
       "id": 10
-    },
-    {
-      "text": ";lkajsd;lkfj",
-      "criminalId": 85,
-      "date": "2021-02-19",
-      "id": 11
     }
   ]
 }
